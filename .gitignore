@@ -1,4 +1,4 @@
-.sqlite
+*.sqlite
 .idea
 env/
 __pycache__/
